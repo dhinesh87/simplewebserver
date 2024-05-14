@@ -1,4 +1,3 @@
-![312299314-dc0da145-92b6-4b1b-a8c2-d9f17cb05086](https://github.com/dhinesh87/simplewebserver/assets/146917182/f0918aed-0d6a-4304-a74e-5119d0190c1e)# EX01 Developing a Simple Webserver
 ## Date:11.05.14
 
 ## AIM:
